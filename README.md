@@ -1,4 +1,4 @@
-# DigitalGlitchUI# DigitalGlitchUI
+# DigitalGlitchUI
 
 A fullscreen “digital glitch” effect for Unity UI elements, with transparent base and richly configurable noise, displacement, color-shift and animation phases. Ideal for UI transitions, error screens, or sci-fi HUD effects.
 
@@ -34,7 +34,7 @@ A fullscreen “digital glitch” effect for Unity UI elements, with transparent
 
 2. **Scripts**
 
-   * Copy `DigitalGlitchUIVolume.cs` (and any helpers) into `Assets/Scripts/UIEffects/` citeturn1file0
+   * Copy `DigitalGlitchUIVolume.cs` (and any helpers) into `Assets/Scripts/UIEffects/` 
 
 3. **Packages**
 
@@ -58,6 +58,7 @@ A fullscreen “digital glitch” effect for Unity UI elements, with transparent
 
    * On the same GameObject, add the `DigitalGlitchUIVolume` component.
    * Configure properties in Inspector:
+
 
    | Property                     | Description                                                   |
    | ---------------------------- | ------------------------------------------------------------- |
@@ -125,9 +126,7 @@ Distributed under the **MIT License**. See [LICENSE](LICENSE) for details.
 
 ## Credits
 
-* **DigitalGlitchUIVolume.cs** by Mirko Rossetti citeturn1file0
+* **DigitalGlitchUIVolume.cs** by Mirko Rossetti 
 * Inspired by URPGlitch (saimarei): [https://github.com/saimarei/URPGlitch](https://github.com/saimarei/URPGlitch)
 * Inspired by KinoGlitch (Keijiro Takahashi): [https://github.com/keijiro/KinoGlitch](https://github.com/keijiro/KinoGlitch)
-* Community shader-graph approaches
 
-Enjoy adding some high-energy glitch vibes to your UI!
